@@ -47,5 +47,10 @@ function math:tan
 Xまでご連絡ください。  
 X:https://x.com/yu_oaaa_otoge  
 
+# 利用規約
+自作発言は禁止、2次配布は元であるこのプロジェクトを明記すればOK
+配布マップ、データパックなどなんでも使って下さい！
+報告などはいらないです！でもしてくれたら喜びます。
+
 # ライセンス
 These codes are released under the MIT License, see LICENSE.
