@@ -1,0 +1,1 @@
+execute unless entity @e[type=marker,tag=MathUtilities_InstallCheck] run function math:install

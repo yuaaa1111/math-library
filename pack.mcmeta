@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "様々な数学の関数を追加するライブラリ",
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 94
+  }
+}
